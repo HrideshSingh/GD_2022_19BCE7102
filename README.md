@@ -7,24 +7,24 @@ Levels Reached: 2
 
 I've taken a new course of action.
 
-You must first enter each member of Team A.
+1)You must first enter each member of Team A.
 
-Then type in every Team B character.
+2)Then type in every Team B character.
 
-The finished board is shown.
+3)The finished board is shown.
 
-You are now asked which Team A character you would want to relocate.
+4)You are now asked which Team A character you would want to relocate.
 
-The action you wish to take with the chosen character follows.
+5)The action you wish to take with the chosen character follows.
 
-Both the character and the revised board are updated.
+6)Both the character and the revised board are updated.
 
-You are now asked which character from Team B you would want to relocate.
+7)You are now asked which character from Team B you would want to relocate.
 
-The action you wish to take with the chosen character follows.
+8)The action you wish to take with the chosen character follows.
 
-Both the character and the revised board are updated.
+9)Both the character and the revised board are updated.
 
-There is no end to this cycle.
+10)There is no end to this cycle.
 
-To keep things simple, only one viewpoint—both Player perspectives—is used to assess right-left orientation.
+11)To keep things simple, only one viewpoint—both Player perspectives—is used to assess right-left orientation.
